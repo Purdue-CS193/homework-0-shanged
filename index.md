@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# Eddie's First CS193 Homework
+
+Favorite things about CS193
+- Less people compared to the lectures
+- Helps with getting started in CS
+- Not boring
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
